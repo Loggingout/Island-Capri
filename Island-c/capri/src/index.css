@@ -1,0 +1,5 @@
+/*Index.css file, import tailwind & other packages, make tailwind.config.js and postcss.config.js file for tailwind to work properly*/
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
